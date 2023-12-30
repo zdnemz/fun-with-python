@@ -9,8 +9,8 @@ This repository is maintained by [@zidanemz](https://github.com/zidanemz), showc
 
 ## Project List
 
-1. **Project 1:** Day Calculator.
-   - [Link to project](src/day-calculator)
+1. **Day Calculator** : a simple day calculator implemented in Python. It allows users to input a specific date, and it calculates the difference between that date and the current date. The program then presents the result in terms of days passed or remaining.
+   - [Link to Day Calculator](src/day-calculator)
 
 ## How to Use
 Include instructions on how to run or interact with the projects. Provide any prerequisites or dependencies needed.
