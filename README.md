@@ -13,6 +13,8 @@ This repository is maintained by [@zidanemz](https://github.com/zidanemz), showc
    - [Link to Day Calculator](src/day-calculator)
 2. **Math Game** :  a simple math game where users can input mathematical expressions, and the program evaluates and compares their answers with the correct result.
    - [Link to Math Game](src/math-game)
+3. **Password Checker** : a simple script that assesses the strength of a user-input password, classifying it as "Strong," "Medium," or "Weak" based on specified criteria. The criteria include the presence of symbols, lowercase and uppercase letters, numbers, and a length between 8 and 16 characters.
+   - [Link to Password Checker](src/password-checker)
 
 ## How to Use
 Include instructions on how to run or interact with the projects. Provide any prerequisites or dependencies needed.
