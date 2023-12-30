@@ -10,7 +10,7 @@ This repository is maintained by [@zidanemz](https://github.com/zidanemz), showc
 ## Project List
 
 1. **Project 1:** Brief description of Project 1.
-   - [date-count](src/date-count.py)
+   - [Link to date-count](src/date-count.py)
 
 ## How to Use
 Include instructions on how to run or interact with the projects. Provide any prerequisites or dependencies needed.
