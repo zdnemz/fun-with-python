@@ -36,7 +36,7 @@ The script will output whether your password is "Strong," "Medium," or "Weak" ba
 
 ## Contributions
 
-Feel free to contribute to the "Math Game" or add your own Python projects to the FunWithPython repository. Follow the [contribution guidelines](/CONTRIBUTING.md) for more information.
+Feel free to contribute to the "Password Checker" or add your own Python projects to the FunWithPython repository. Follow the [contribution guidelines](/CONTRIBUTING.md) for more information.
 
 ## License
 
