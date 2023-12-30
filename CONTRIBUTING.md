@@ -8,7 +8,7 @@ Thank you for considering contributing to FunWithPython! Your contributions help
 2. Clone the forked repository to your local machine:
    
    ```bash
-   git clone https://github.com/your-username/FunWithPython.git 
+   git clone https://github.com/zdnemz/FunWithPython.git 
    ```
    
 4. Create a new branch for your feature or bug fix:
