@@ -9,8 +9,8 @@ This repository is maintained by [@zidanemz](https://github.com/zidanemz), showc
 
 ## Project List
 
-1. **Project 1:** Brief description of Project 1.
-   - [Link to date-count](src/date-count.py)
+1. **Project 1:** Day Calculator.
+   - [Link to project](src/day-calculator)
 
 ## How to Use
 Include instructions on how to run or interact with the projects. Provide any prerequisites or dependencies needed.
