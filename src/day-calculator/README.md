@@ -26,7 +26,7 @@ If Converted, Approximately         : 1 year, 0 months, 0 days
 ```
 
 ## Contributions
-You can contribute by providing suggestions, reporting bugs, or adding new features. Please follow the contribution guidelines in [/CONTRIBUTING.md](CONTRIBUTING.md).
+You can contribute by providing suggestions, reporting bugs, or adding new features. Please follow the contribution guidelines in [CONTRIBUTING.md](/CONTRIBUTING.md).
 
 ## License
-This program is licensed under the [MIT License](LICENSE).
+This program is licensed under the [MIT License](/LICENSE).
