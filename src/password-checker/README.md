@@ -1,4 +1,4 @@
-# Password Strength Checker
+# Fun With Python - Password Checker
 
 This Python script checks the strength of a user-provided password based on certain criteria, categorizing it as either "Strong," "Medium," or "Weak."
 
