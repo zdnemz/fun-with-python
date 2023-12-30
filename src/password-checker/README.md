@@ -34,9 +34,9 @@ Password must have a length between 8 and 16 characters.
 
 The script will output whether your password is "Strong," "Medium," or "Weak" based on the defined criteria.
 
-## Contributing
+## Contributions
 
-Feel free to contribute to the project by opening issues or submitting pull requests.
+Feel free to contribute to the "Math Game" or add your own Python projects to the FunWithPython repository. Follow the [contribution guidelines](/CONTRIBUTING.md) for more information.
 
 ## License
 
