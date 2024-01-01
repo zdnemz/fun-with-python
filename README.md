@@ -7,7 +7,7 @@ Welcome to the FunWithPython repository, a collection of simple and fun Python p
 ## About the Author
 This repository is maintained by [@zidanemz](https://github.com/zidanemz), showcasing various Python projects for learning and experimentation.
 
-## Project List
+## Project Lists
 
 1. **Day Calculator** : a simple day calculator implemented in Python. It allows users to input a specific date, and it calculates the difference between that date and the current date. The program then presents the result in terms of days passed or remaining.
    - [Link to Day Calculator](src/day-calculator)
@@ -15,6 +15,8 @@ This repository is maintained by [@zidanemz](https://github.com/zidanemz), showc
    - [Link to Math Game](src/math-game)
 3. **Password Checker** : a simple script that assesses the strength of a user-input password, classifying it as "Strong," "Medium," or "Weak" based on specified criteria. The criteria include the presence of symbols, lowercase and uppercase letters, numbers, and a length between 8 and 16 characters.
    - [Link to Password Checker](src/password-checker)
+4. **Discount Calculator** : a simple program that calculates the discount percentage between an original and discounted price. The user-friendly script prompts for input, validates numerical values, and provides results instantly.
+   - [Link to Discount Calculator](src/discount-calculator)
 
 ## How to Use
 Include instructions on how to run or interact with the projects. Provide any prerequisites or dependencies needed.
