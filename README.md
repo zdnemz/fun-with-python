@@ -19,6 +19,8 @@ This repository is maintained by [@zidanemz](https://github.com/zidanemz), showc
 
 5. [**Rock Paper Scissors**](src/rock-paper-scissors) : A simple Rock Paper Scissors game implemented in Python. Test your luck against the computer and see if you can outsmart it!
 
+[**More Programs...**](src)
+
 ## How to Use
 Include instructions on how to run or interact with the projects. Provide any prerequisites or dependencies needed.
 
