@@ -21,8 +21,8 @@ This repository is maintained by [@zidanemz](https://github.com/zidanemz), showc
 
 [**More Programs...**](src)
 
-## How to Use
-Include instructions on how to run or interact with the projects. Provide any prerequisites or dependencies needed.
+## Prerequisites:
+Ensure you have Python installed on your machine. You can download it [here](https://python.org).
 
 ## Contributions
 Feel free to contribute by adding your own Python projects or improving existing ones. Follow the [contribution guidelines](CONTRIBUTING.md) for more information.
