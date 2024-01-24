@@ -5,7 +5,7 @@
 Welcome to the FunWithPython repository, a collection of simple and fun Python programs!
 
 ## About the Author
-This repository is maintained by [@zidanemz](https://github.com/zidanemz), showcasing various Python projects for learning and experimentation.
+This repository is maintained by [@zdnemz](https://github.com/zdnemz), showcasing various Python projects for learning and experimentation.
 
 ## Project Lists
 
