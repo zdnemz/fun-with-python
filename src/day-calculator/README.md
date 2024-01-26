@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FunWithPython - Days Calculator
 
 This program allows users to calculate how many days have passed or are remaining since a specific date. Users are prompted to input the day, month, and year, and the program provides information about the elapsed or upcoming days since that date.
@@ -64,4 +63,3 @@ You can contribute by providing suggestions, reporting bugs, or adding new featu
 
 ## License
 This program is licensed under the [MIT License](/LICENSE).
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
