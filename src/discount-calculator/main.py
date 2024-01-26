@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sys
 
 def is_float(value):
@@ -70,4 +69,3 @@ while True:
             sys.exit(0)
         else:
             print('Sorry, I didn\'t understand. Could you please try again?')
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
