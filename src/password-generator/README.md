@@ -22,7 +22,7 @@ Generated Password: %A3gH7@L1wF9
 ```
 
 ## Contributions
-Contributions are welcome! You can contribute by providing suggestions, reporting bugs, or adding new features. Please follow the contribution guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions are welcome! You can contribute by providing suggestions, reporting bugs, or adding new features. Please follow the contribution guidelines in [CONTRIBUTING.md](/CONTRIBUTING.md).
 
 ## License
 This program is licensed under the [MIT License](LICENSE).
