@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import datetime as dt
 import sys
 
@@ -118,4 +117,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
