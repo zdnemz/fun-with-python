@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Discount Calculator
 
 This is a simple Python program that calculates the discount percentage based on the original and discounted prices provided by the user.
@@ -62,4 +61,3 @@ You can contribute by providing suggestions, reporting bugs, or adding new featu
 
 ## License
 This program is licensed under the [MIT License](/LICENSE).
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
