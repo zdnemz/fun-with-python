@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FunWithPython - Math Game
 
 Welcome to the "Math Game" project in the FunWithPython repository. This simple Python program allows you to practice your math skills by solving random arithmetic operations.
@@ -98,5 +97,4 @@ Feel free to contribute to the "Math Game" or add your own Python projects to th
 
 ## License
 
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
 This project is licensed under the [MIT License](/LICENSE).
