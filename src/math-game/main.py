@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sys
 
 def display_game_title():
@@ -114,4 +113,3 @@ def play_math_game():
 
 if __name__ == "__main__":
     play_math_game()
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
