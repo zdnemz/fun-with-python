@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rock Paper Scissors
 
 A simple Rock Paper Scissors game implemented in Python. Test your luck against the computer and see if you can outsmart it!
@@ -90,4 +89,3 @@ You can contribute by providing suggestions, reporting bugs, or adding new featu
 ## License
 
 This program is licensed under the [MIT License](/LICENSE).
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
