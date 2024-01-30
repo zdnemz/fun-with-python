@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FunWithPython - Password Checker
 
 This Python script checks the strength of a user-provided password based on certain criteria, categorizing it as either "Strong," "Medium," or "Weak."
@@ -86,4 +85,3 @@ Feel free to contribute to the "Password Checker" or add your own Python project
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
