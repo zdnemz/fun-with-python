@@ -12,7 +12,7 @@ This Python script calculates the nth term of the Fibonacci sequence and provide
 1. Run the script:
 
    ```bash
-   python fibonacci.py
+   python main.py
    ```
 
 2. Enter the desired Fibonacci sequence term when prompted.
