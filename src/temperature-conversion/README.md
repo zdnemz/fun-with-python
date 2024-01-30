@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Temperature Conversion
 
 A program allows users to convert temperatures between Celsius, Fahrenheit, Reamur, and Kelvin. The conversion is based on the user's input of the temperature scale and value.
@@ -148,4 +147,3 @@ You can contribute by providing suggestions, reporting bugs, or adding new featu
 ## License
 
 This program is licensed under the [MIT License](/LICENSE).
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
