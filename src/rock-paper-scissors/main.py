@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import random
 
 print('=' * 30)
@@ -54,4 +53,3 @@ try:
         print('Invalid input. Please enter a number between 1 and 3.')
 except ValueError:
     print('Please enter only numbers.')
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
