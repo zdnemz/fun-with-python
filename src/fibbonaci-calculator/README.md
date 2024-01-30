@@ -25,10 +25,10 @@ This Python script calculates the nth term of the Fibonacci sequence and provide
 
 ```bash
 =======================================================
-Enter a number                                  : 12
+Enter a number                                  : 6
 =======================================================
-The 12th Fibonacci number is                    : 144
-The sum of Fibonacci numbers up to 12 is        : 1308
+The 6th Fibonacci number is                     : 8
+The sum of Fibonacci numbers up to 6 is         : 20
 =======================================================
 Do you want to restart the program? (y/n): n
 Okay, I will exit now.
