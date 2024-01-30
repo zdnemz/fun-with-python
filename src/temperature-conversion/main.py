@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print(60 * "=")
 print(f"\n{20 * '-'}Temperature Converter{19 * '-'}\n")
 print(60 * "=")
@@ -116,4 +115,3 @@ while True:
     else:
         print("Please choose a valid temperature scale.")
         print(60 * "=")
->>>>>>> a8d7b99dbb3481e966498f29ecda8eb9c74633d5
